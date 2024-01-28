@@ -1,0 +1,67 @@
+@media screen and (max-width: 767px) {
+    .hero-section {
+        flex-direction: column;
+        padding: 5rem 1rem;
+    }
+
+    .hero-section .left-box {
+        order: 1;
+        text-align: center;
+    }
+
+    .left-box h2 {
+        font-size: 35px;
+    }
+
+    .post-data {
+        flex-direction: column;
+    }
+
+    h3.post-head {
+        font-size: 1.5rem;
+    }
+
+    section.features-work {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .feature-posts {
+        padding: 1rem 0;
+    }
+
+    .blog-content~section .desc {
+        width: unset;
+    }
+
+    .navbar li {
+        display: none;
+    }
+
+    .navbar .menu-icon {
+        display: block;
+        cursor: pointer;
+        font-size: 2.5rem;
+    }
+
+    /* ******************************* */
+
+    .container .mobile-nav {
+        height: 100vh;
+        width: -webkit-fill-available;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        padding: 1rem;
+        gap: 2rem;
+        font-size: 1.3rem;
+        background: #fff;
+        position: fixed;
+        transform: translateX(100%);
+        transition: transform 0.5s;
+    }
+
+    .container .openDrawer {
+        transform: translateX(0%);
+    }
+}
