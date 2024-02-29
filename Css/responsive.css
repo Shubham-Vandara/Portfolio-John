@@ -46,7 +46,7 @@
 
     /* ******************************* */
 
-    .container .mobile-nav {
+    .container-nav .mobile-nav {
         height: 100vh;
         width: -webkit-fill-available;
         display: flex;
@@ -61,7 +61,7 @@
         transition: transform 0.5s;
     }
 
-    .container .openDrawer {
+    .container-nav .openDrawer {
         transform: translateX(0%);
     }
 }
