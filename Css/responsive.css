@@ -46,6 +46,9 @@
 
     /* ******************************* */
 
+    .container-nav {
+        background-color: #fafafa;
+    } 
     .container-nav .mobile-nav {
         height: 100vh;
         width: -webkit-fill-available;
@@ -55,8 +58,10 @@
         padding: 1rem;
         gap: 2rem;
         font-size: 1.3rem;
-        background: #fff;
-        position: fixed;
+        background: #fafafa;
+        position: absolute;
+        top: 72px;
+        left: 0;
         transform: translateX(100%);
         transition: transform 0.5s;
     }
