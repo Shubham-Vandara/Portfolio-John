@@ -28,3 +28,10 @@ This project is for demonstration purposes only and does not require a license.
 ## Contact
 
 For any inquiries or feedback, please reach out to the creator of this dummy portfolio.
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/shubham-vandara/Portfolio-John.git
