@@ -194,6 +194,8 @@ p.year {
     color: var(--light-color);
 }
 
+/* FOOTER SECTION */
+
 .footer {
     display: flex;
     flex-direction: column;
@@ -203,20 +205,33 @@ p.year {
     padding: 1.5rem 1rem;
 }
 
-.footer .icons {
+/* FOOTER SOCIAL LINKS */
+.footer .social-links {
     display: flex;
-    gap: 35px;
+    justify-content: center;
+    margin-bottom: 1rem;
+    gap: 10px;
+}
+
+.footer .social-links a {
+    padding: 5px;
+    font-size: 1.3rem;
+    transition: all 0.5s;
 }
 
 
-/* PAGES CSS */
+.footer .social-links a i:hover {
+    color: var(--primary-color);
+}
+
+/* PAGES PAGE */
 
 .page-title {
     font-size: 30px;
     font-weight: 700;
 }
 
-/* BLOG CSS */
+/* BLOG PAGE */
 
 .blog-content~section {
     display: flex;
@@ -231,7 +246,7 @@ p.year {
 }
 
 
-/* CONTACT FORM CSS */
+/* CONTACT FORM PAGE */
 
 .contact-form {
     background-color: #f4f4f4;
