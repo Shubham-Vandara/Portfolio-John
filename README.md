@@ -13,25 +13,28 @@ This portfolio website serves as a demonstration of John's skills in web develop
 - **Work Page**: The work page displays a selection of fictional projects attributed to John. Each project includes a description and relevant links.
 - **Contact Page**: The contact page allows visitors to get in touch with John via a contact form or provided contact information.
 
-## Usage
-
-This dummy portfolio website can be accessed [here](https://shubham-vandara.github.io/Portfolio-John/). Feel free to explore the various pages and features to get an idea of John's hypothetical portfolio.
-
 ## Contributing
 
 As this is a dummy portfolio, there are no active contributions needed. However, if you have suggestions for improving the website's design or functionality, feel free to share them.
 
-## License
+## Getting Started
 
-This project is for demonstration purposes only and does not require a license.
+To start exploring Portfolio John and its codebase, you have a couple of options:
+
+### View the Website
+
+Visit the Portfolio John website hosted on GitHub Pages by following this link: [Portfolio John Website](https://shubham-vandara.github.io/Portfolio-John/). This allows you to experience the website's features and layout directly in your browser. Feel free to explore the various pages and features to get an idea of John's hypothetical portfolio.
 
 ## Contact
 
 For any inquiries or feedback, please reach out to the creator of this dummy portfolio.
 
-## Installation
+### Clone the Repository
 
-Clone the repository
+To explore the code or contribute to the project, clone the repository to your local machine:
 
-```bash
-git clone https://github.com/shubham-vandara/Portfolio-John.git
+1. Open your terminal or command prompt.
+2. Run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/shubham-vandara/Portfolio-John.git
