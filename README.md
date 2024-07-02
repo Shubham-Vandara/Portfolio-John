@@ -23,7 +23,7 @@ To start exploring Portfolio John and its codebase, you have a couple of options
 
 ### View the Website
 
-Visit the Portfolio John website hosted on GitHub Pages by following this link: [Portfolio John Website](https://shubham-vandara.github.io/Portfolio-John/). This allows you to experience the website's features and layout directly in your browser. Feel free to explore the various pages and features to get an idea of John's hypothetical portfolio.
+Visit the Portfolio John website hosted on GitHub Pages by following this link: [Portfolio John Website](https://shubham-vandara.github.io/portfolio-john/). This allows you to experience the website's features and layout directly in your browser. Feel free to explore the various pages and features to get an idea of John's hypothetical portfolio.
 
 ## Contact
 
@@ -37,4 +37,4 @@ To explore the code or contribute to the project, clone the repository to your l
 2. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/shubham-vandara/Portfolio-John.git
+   git clone https://github.com/shubham-vandara/portfolio-john.git
